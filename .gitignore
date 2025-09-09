@@ -1,1 +1,15 @@
-"venv/"  
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+*.env
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/

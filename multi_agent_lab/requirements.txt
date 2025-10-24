@@ -1,0 +1,11 @@
+# Core dependencies for the multi-agent lab
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Google ADK dependencies (if available)
+# google-adk  # Uncomment if the package is available
+# google-genai  # Uncomment if the package is available
+
+# Optional: For better web scraping
+selenium>=4.15.0
